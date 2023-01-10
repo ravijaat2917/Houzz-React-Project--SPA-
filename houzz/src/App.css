@@ -36,7 +36,9 @@
     transform: rotate(360deg);
   }
 }
-
+button , .Button{
+  cursor: pointer;
+}
 #logo-img{
   height: 45px;
 }
